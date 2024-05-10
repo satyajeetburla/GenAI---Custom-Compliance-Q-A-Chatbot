@@ -1,4 +1,4 @@
-# Custom Compliance Q&A Chatbot
+# Custom Compliance Q&A Chatbot - GenAI
 
 Custom Compliance Q&A Chatbot: Tailored Information Retrieval Aligned with Organizational Protocols| GenAI, LLM, Machine Learning
 •	Developed an innovative chatbot capable of parsing and answering complex queries adhering to company protocol and documentation, leveraging Llama3, Langchain, streamlit, and Groq API for precise information retrieval and real-time response generation.
